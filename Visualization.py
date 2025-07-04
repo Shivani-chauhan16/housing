@@ -1,2 +1,2 @@
 #Print the output
-print("Charts")
+print("Charts and Graphs")
